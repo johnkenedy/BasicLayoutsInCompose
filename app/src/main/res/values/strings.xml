@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Basic layouts in Compose</string>
+    <string name="placeholder_search">Search…</string>
+    <string name="launcher_background">Launcher Background</string>
+    <string name="launcher_foreground">Launcher Foreground</string>
+
+    <string name="dogs">Pretty good boys</string>
+    <string name="cats">Amazing cool guys</string>
+
+    <string name="dog1">Brown happy dog</string>
+    <string name="dog2">Semi-happy dog</string>
+    <string name="dog3">White dog with ball</string>
+    <string name="dog4">Super Happy Dog</string>
+    <string name="dog5">Big eyes dog</string>
+    <string name="dog6">Just a very pretty dog</string>
+
+    <string name="cat1">Normal cat</string>
+    <string name="cat2">Peaceful cat</string>
+    <string name="cat3">Three cats</string>
+    <string name="cat4">Sleepy(Ana) cat</string>
+    <string name="cat5">Funny cat</string>
+    <string name="cat6">Lied cat</string>
+
+</resources>
